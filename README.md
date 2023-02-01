@@ -8,6 +8,11 @@ It can be seen from Figure R1 that when k=1, the performance difference with ful
 ## Figure R1 (PSNR are evaluated in Urban100 x4):
 <img src="./imgs/low_rank.png"/>
 
+## Training
+We provide PSNR curves of the training process, including 3 models: ASP, only LKA and only ASSA.
+
+## Figure R2 (PSNR are evaluated in Urban100 x4):
+<img src="./imgs/train.png"/>
 
 ## Performance of only one type operator.
 FLOPs are maintained at about 40GFLOPs
